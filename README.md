@@ -6,12 +6,19 @@ The project is designed to showcase professional UI design skills, responsivenes
 🚀 Features
 
 ✅ Modern Design – Clean and professional look using Tailwind CSS
+
 ✅ Responsive Layout – Works on desktop, tablet, and mobile devices
+
 ✅ Navbar – Logo + navigation menu (hamburger menu for mobile)
+
 ✅ Hero Section – Headline, sub-text, call-to-action button, and banner image placeholder
+
 ✅ Feature Cards – 3 highlights: Speaking Practice, Mock Tests, AI Band Score
+
 ✅ Student Testimonials – 2–3 reviews in card layout
+
 ✅ Footer – Contact information & copyright
+
 ✅ Dark Mode (optional extra) – Simple toggle for enhanced UX
 
 🛠️ Tech Stack
