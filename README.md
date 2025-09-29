@@ -38,7 +38,7 @@ Tailwind CSS (for styling & responsiveness)
 <img width="1920" height="1080" alt="Screenshot (182)" src="https://github.com/user-attachments/assets/63e00029-5e3f-4ba2-b0c6-de395c33b828" />
 
 
-
+vercel deployment: https://ielts-institute-web.vercel.app/
 
 ⚡ Setup Instructions
 
